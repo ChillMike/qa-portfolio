@@ -24,7 +24,7 @@
 | API-тестирование | Postman, Charles Proxy |
 | Анализ логов | Graylog |
 | Базы данных | DBeaver (SQL) |
-| Документация | Markdown, GitHub |
+| Документация | GitHub |
 
 ## ⚠️ Важно
 
